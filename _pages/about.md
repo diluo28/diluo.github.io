@@ -11,6 +11,6 @@ I am Di Luo, a postdoctoral associate at the Center for Theoretical Physics at M
 
 ## Research Interest:
 
-I am working on research in the intersection of quantum many-body physic, quantum information science, and artificial intelligence. I have been developing quantum algorithms and machine learning approaches for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
+I am working on research in the intersection of quantum many-body physic, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms and for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
 
-## Publications:
+
