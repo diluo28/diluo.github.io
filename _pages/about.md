@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Di Luo, a postdoctoral associate at the theoretical center of physics at MIT and the physics department at Harvard. I am an IAIFI fellow at the The NSF AI Institute for Artificial Intelligence and Fundamental Interactions. I received my undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. I graduated with master degree in mathematics and Ph.D. degree in physics at the University of Illinois, Urbana-Champaign in 2021.
+I am Di Luo, a postdoctoral associate at the Center for Theoretical Physics at MIT and the physics department at Harvard. I am an IAIFI fellow at the The NSF AI Institute for Artificial Intelligence and Fundamental Interactions. I received my undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. I graduated with master degree in mathematics and Ph.D. degree in physics at the University of Illinois, Urbana-Champaign in 2021.
 
 ## Research Interest:
 
