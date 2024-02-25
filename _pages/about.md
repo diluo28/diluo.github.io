@@ -15,4 +15,4 @@ I am working on research in the intersection of quantum many-body physic, quantu
 
 ## Publications:
 
-<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. 
+<a href="https://scholar.google.com/citations?hl=en&user=OxZytTQAAAAJ&view_op=list_works" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. 
