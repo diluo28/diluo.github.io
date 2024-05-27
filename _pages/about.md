@@ -21,4 +21,4 @@ I am working on research in the intersection of quantum many-body physics, quant
 
 ## Talks:
 
-*<a href="https://www.youtube.com/watch?v=NEH07uWojxo" target="_blank">Many-body Physics Meets Artificial Intelligence</a>*, invited talk at IAIFI Summer Workshop 2023
+*<a href="https://www.youtube.com/watch?v=NEH07uWojxo" target="_blank">Many-body Physics Meets Artificial Intelligence</a>*, an invited talk at IAIFI Summer Workshop 2023.
