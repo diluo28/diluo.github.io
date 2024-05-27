@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Di Luo, a postdoctoral associate at the Center for Theoretical Physics at MIT and the physics department at Harvard. I am an IAIFI fellow at the The NSF AI Institute for Artificial Intelligence and Fundamental Interactions. I received my undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. I graduated with master degree in mathematics and Ph.D. degree in physics at the University of Illinois, Urbana-Champaign in 2021.
+I am Di Luo, a postdoctoral associate at the Center for Theoretical Physics at MIT and the physics department at Harvard, as well as an IAIFI fellow at the The NSF AI Institute for Artificial Intelligence and Fundamental Interactions. I graduated with a Ph.D. degree in physics and a master degree in mathematics at the University of Illinois, Urbana-Champaign in 2021. I received my undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. 
+
+In 2024, I will start as an Assistant Professor at UCLA.
 
 ## Research Interest:
 
-I am working on research in the intersection of quantum many-body physic, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms and for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
+I am working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms and for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
 
 ## Publications:
 
@@ -19,4 +21,4 @@ I am working on research in the intersection of quantum many-body physic, quantu
 
 ## Talks:
 
-Many-body Physics Meets Artificial Intelligence, invited talk at IAIFI Summer Workshop 2023, https://www.youtube.com/watch?v=NEH07uWojxo
+*<a href="https://www.youtube.com/watch?v=NEH07uWojxo" target="_blank">Many-body Physics Meets Artificial Intelligence</a>*, invited talk at IAIFI Summer Workshop 2023
