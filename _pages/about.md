@@ -17,7 +17,7 @@ I am working on research in the intersection of quantum many-body physics, quant
 
 ## Publications:
 
-<a href="https://scholar.google.com/citations?hl=en&user=OxZytTQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. 
+<a href="https://scholar.google.com/citations?hl=en&user=OxZytTQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> provides a full list of publications under chronological/citations order. 
 
 ## Talks:
 
