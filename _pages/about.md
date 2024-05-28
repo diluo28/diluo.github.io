@@ -13,7 +13,7 @@ In 2024, I will start as an Assistant Professor at UCLA.
 
 ## Research Interest:
 
-I am working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms and for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
+I am working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
 
 ## Publications:
 
