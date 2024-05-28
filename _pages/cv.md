@@ -11,7 +11,7 @@ redirect_from:
 
 Position
 ======
-* Postdoc Associate at MIT and Harvard, Fellow at Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), 2021-2024
+* Postdoc Associate at the center of theoretical physics at MIT and the physics department at Harvard, Fellow at Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), 2021-2024
 
 Education
 ======
