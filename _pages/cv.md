@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, the University of Illinois at Urbana-Champaign, 2016-2021
-* Master in Mathematics, the University of Illinois at Urbana-Champaign, 2018-2021
-* Master in Physics, the University of Illinois at Urbana-Champaign, 2016-2018
+* Ph.D in Physics, the University of Illinois Urbana-Champaign, 2016-2021
+* Master in Mathematics, the University of Illinois Urbana-Champaign, 2018-2021
+* Master in Physics, the University of Illinois Urbana-Champaign, 2016-2018
 * Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012-2016
 
 Work & Research Experience
