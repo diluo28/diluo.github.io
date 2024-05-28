@@ -16,20 +16,12 @@ Education
 * Master in Physics, the University of Illinois at Urbana-Champaign, 2016-2018
 * Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012-2016
 
-Work experience
+Work & Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fellow at Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), Postdoc Associate at MIT and Harvard, 2021-2024
+* Graduate Research at Google Quantum AI, 2021.05-20021.08
+* Graduate Research at the Flatiron Institute - Simons Foundation, 2020.06-2020-08
+* Graduate Research at the Vector Institute, 2019.06-2019.09
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
