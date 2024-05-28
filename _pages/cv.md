@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Position
+======
+* Postdoc Associate at MIT and Harvard, Fellow at Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), 2021-2024
+
 Education
 ======
 * Ph.D in Physics, the University of Illinois Urbana-Champaign, 2016-2021
@@ -16,9 +20,8 @@ Education
 * Master in Physics, the University of Illinois Urbana-Champaign, 2016-2018
 * Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012-2016
 
-Work & Research Experience
+Research Experience
 ======
-* Fellow at Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), Postdoc Associate at MIT and Harvard, 2021-2024
 * Graduate Research at Google Quantum AI, 2021.05-2021.08
 * Graduate Research at the Flatiron Institute - Simons Foundation, 2020.06-2020-08
 * Graduate Research at the Vector Institute, 2019.06-2019.09
