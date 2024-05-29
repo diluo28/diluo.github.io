@@ -13,9 +13,9 @@ I am Di Luo, an <a href="https://iaifi.org/" target="_blank">IAIFI</a> fellow at
 
 I am working on research in AI+Science and Quantum Computation, with research topics in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. I aim to understand nature from the perspectives of information and computation as well as develop intelligence inspired by ideas from nature, particulary in the following directions: 
 
-* AI for Science: develop generative models and efficient PDEs solver with quantum representation and physics structure for fundamental science, quantum materials and quantum technology discoveries.
-* Science for AI: utilize scientific theories (such as statistical mechanics, quantum information theory) to develop new representation and optimization methods for machine learning, advance ai reasoning and robotics. 
-* Quantum Information Science and Technology: design quantum algorithms for quantum control, quantum measurement, quantum error correction, quantum simulations and quantum machine learning.
+* *AI for Science*: develop generative models and efficient PDEs solver with quantum representation and physics structure for fundamental science, quantum materials and quantum technology discoveries.
+* *Science for AI*: utilize scientific theories (such as statistical mechanics, quantum information theory) to develop new representation and optimization methods for machine learning, advance ai reasoning and robotics. 
+* *Quantum Information Science*: design quantum algorithms for quantum control, quantum measurement, quantum error correction, quantum simulations and quantum machine learning.
 
 ## Publications:
 
