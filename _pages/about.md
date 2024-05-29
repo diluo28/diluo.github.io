@@ -9,8 +9,6 @@ redirect_from:
 
 I am Di Luo, an <a href="https://iaifi.org/" target="_blank">IAIFI</a> fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions, as well as a postdoctoral associate at MIT Center for Theoretical Physics and Harvard Physics Department. I graduated with a Ph.D. degree in physics and a master degree in mathematics at the University of Illinois Urbana-Champaign in 2021. I received my undergraduate degree with double majors in physics and mathematics from the University of Hong Kong in 2016. 
 
-In 2024, I will start as an assistant professor at UCLA and an affiliate faculty member at the Center of Quantum Science and Engineering.
-
 ## Research Interest:
 
 I am working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. I have been developing machine learning approaches and quantum algorithms for fundamental physics, quantum materials, and quantum information science. I am interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
