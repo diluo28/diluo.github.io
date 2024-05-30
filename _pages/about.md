@@ -15,7 +15,7 @@ I am working on research in AI+Science and Quantum Computation, with research to
 
 * ***AI for Science***: develop generative models with quantum representation and efficient ML PDEs algorithms for simulations and discoveries in fundamental science, quantum materials and quantum technology.
 * ***Science for AI***: utilize mathematics and physics theories to develop new representation and optimization methods for machine learning, advance AI reasoning and robotics. 
-* ***Quantum Information Science***: design quantum algorithms for quantum control, quantum measurement, quantum error correction, quantum simulations and quantum machine learning.
+* ***Quantum Information Science***: design efficient quantum algorithms for quantum control, quantum measurement, quantum error correction, quantum simulations and quantum machine learning.
 
 ## Publications:
 
