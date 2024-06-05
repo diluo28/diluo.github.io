@@ -17,7 +17,7 @@ I am working on research in AI+Science and Quantum Computation, focusing on deve
 * ***Science for AI***: utilize mathematics and physics theories to develop new representation and optimization methods for machine learning, advance AI reasoning and robotics. 
 * ***Quantum Information Science***: design efficient quantum algorithms for quantum control, quantum measurement, quantum error correction, quantum simulations and quantum machine learning.
 
-Welcome students with background in theoretical and experimental physics, computational physics (quantum monte carlo, tensor network, DFT, etc.), mathematics, chemistry, biology, quantum information science, machine learning and robotics for discussion and collaboration! 
+Welcome students with background in theoretical and experimental physics, computational physics (quantum monte carlo, tensor network, DFT, MD, etc.), mathematics, chemistry, biology, quantum information science, machine learning and robotics for discussion and collaboration! 
 
 ## Publications:
 
