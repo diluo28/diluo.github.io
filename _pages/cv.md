@@ -11,13 +11,13 @@ redirect_from:
 
 Position
 ======
-* IAIFI Fellow at AI Institute for Artificial Intelligence and Fundamental Interactions, affiliated with MIT Center for Theoretical Physics and Harvard Physics Department, 2021-2024
+* IAIFI Fellow at AI Institute for Artificial Intelligence and Fundamental Interactions, affiliated with MIT Center for Theoretical Physics and Harvard Physics Department, 2021.09-2024.06
 
 Education
 ======
-* Ph.D in Physics, the University of Illinois Urbana-Champaign, 2016-2021
-* Master in Mathematics & Master in Physics, the University of Illinois Urbana-Champaign, 2016-2021
-* Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012-2016
+* Ph.D in Physics, the University of Illinois Urbana-Champaign, 2016.08-2021.08
+* Master in Mathematics & Master in Physics, the University of Illinois Urbana-Champaign, 2016.08-2021.08
+* Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012.09-2016.06
 
 Research Experience
 ======
