@@ -12,7 +12,7 @@ I am Di Luo, an Assistant Professor at UCLA. Previously, I was an <a href="https
 
 ## Research Interest:
 
-I am working on research in AI+Science and Quantum Computation, focusing on developing machine learning and quantum algorithms for scientific discoveries as well as designing new theories and framework for AI and robotics inspired by mathematics and physics. I aim to understand nature from the perspectives of information and computation as well as develop intelligence inspired by ideas from nature, particulary in the following directions: 
+I am working on research in AI+Quantum, focusing on developing machine learning and quantum algorithms for scientific discoveries as well as designing new theories and framework for AI and robotics inspired by mathematics and physics. I aim to understand nature from the perspectives of information and computation as well as develop intelligence inspired by ideas from nature, particulary in the following directions: 
 
 * ***AI for Science***: develop generative models with quantum representation and efficient ML PDEs algorithms for simulations and discoveries in fundamental science, quantum materials and quantum technology.
 * ***Science for AI***: utilize mathematics and physics theories to develop new representation and optimization methods for machine learning, advance AI reasoning and robotics. 
