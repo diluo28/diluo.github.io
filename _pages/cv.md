@@ -16,7 +16,7 @@ Position
 Education
 ======
 * Ph.D in Physics, the University of Illinois Urbana-Champaign, 2016.08-2021.08
-* Master in Mathematics & Master in Physics, the University of Illinois Urbana-Champaign, 2016.08-2021.08
+* Master in Mathematics & Master in Physics, the University of Illinois Urbana-Champaign, 2016.08-2021.05
 * Bachelor with double major in Physics and Mathematics,  First-Class Honours, the University of Hong Kong, 2012.09-2016.06
 
 Research Experience
